@@ -1,0 +1,5 @@
+Dibujar|Es un dibuji|EstadoTarea.noRealizada
+Pintar|Es una pintura|EstadoTarea.noRealizada
+Programar|Programar un monton marica|EstadoTarea.noRealizada
+Cagar|Cagar un monton|EstadoTarea.noRealizada
+Irse para la casa||EstadoTarea.noRealizada
